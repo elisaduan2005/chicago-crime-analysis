@@ -44,5 +44,9 @@ Together, these datasets enable both long-term trend analysis and recent neighbo
 ## Summary
 Chicago crime disproportionately affects young men and minority populations, with neighborhood and socioeconomic factors playing major roles. Trends reveal seasonal and demographic shifts, highlighting both systemic disparities and areas for targeted intervention. Future work may include predictive modeling of crime risk by demographic group and neighborhood-level hotspot analysis.
 
+## Full Report
+The complete report, including figures and references, is available here:  
+📄 [Full Report (Google Docs)](https://docs.google.com/document/d/17khHzWbn67ck2fNcegpjUeJWRZslBca-vqGxprufHlE/edit?usp=sharing)
+
 ---
 
